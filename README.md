@@ -6,7 +6,7 @@ This project is perfect for beginners learning Python file handling, data persis
 
 ---
 
-**🚀 Features.**
+**🚀 Features.** -
 
 Add Products
 Easily insert new product entries with name, cost, and quantity.
